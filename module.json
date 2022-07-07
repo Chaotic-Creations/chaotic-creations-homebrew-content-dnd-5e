@@ -3,7 +3,7 @@
     "title": "Chaotic Creations' Homebrew Content for D&D 5E",
     "description": "A collection of homebrew materials for Dungeons and Dragons Fifth Edition, made for FoundryVTT by Tyler Labelle A.K.A. Chaotic Creations.",
     "version": "1.0.0",
-    "author": {
+    "authors": {
       "name": "Chaotic Creations",
       "email": "crazy2321@gmail.com"
     },
@@ -18,7 +18,7 @@
       }
     ],
     "manifest": "https://raw.githubusercontent.com/Chaotic-Creations/chaotic-creations-homebrew-content-dnd-5e/main/module.json",
-    "download": "https://github.com/Chaotic-Creations/chaotic-creations-homebrew-content-dnd-5e/raw/main/chaotic-creations-homebrew-content-dnd-5e.zip",
+    "download": "https://github.com/Chaotic-Creations/chaotic-creations-homebrew-content-dnd-5e/blob/main/chaotic-creations-homebrew-content-dnd-5e.zip?raw=true",
     "license": "./LICENSE",
     "readme": "./README.md"
   }
