@@ -1,2 +1,2 @@
-# chaotic-creations-homebrew-content-dnd-5e
-Here is a collection of homebrew materials for Dungeons and Dragons Fifth Edition, made for FoundryVTT
+# Chaotic Creations' Homebrew Content for D&D Fifth Edition
+Here is a collection of homebrew materials for Dungeons and Dragons Fifth Edition, made for FoundryVTT by Tyler Labelle A.K.A. Chaotic Creations.
