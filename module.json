@@ -17,7 +17,7 @@
         "type": "system"
       }
     ],
-    "manifest": "https://github.com/Chaotic-Creations/chaotic-creations-homebrew-content-dnd-5e/blob/740d74c95a001444ba5e97395c159e336fe07164/module.json",
+    "manifest": "https://raw.githubusercontent.com/Chaotic-Creations/chaotic-creations-homebrew-content-dnd-5e/main/module.json",
     "download": "https://github.com/Chaotic-Creations/chaotic-creations-homebrew-content-dnd-5e/raw/main/chaotic-creations-homebrew-content-dnd-5e.zip",
     "license": "./LICENSE",
     "readme": "./README.md"
