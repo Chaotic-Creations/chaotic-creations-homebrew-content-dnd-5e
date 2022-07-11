@@ -7,6 +7,38 @@
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
     "packs": [
+      {
+        "label": "Class Features (CCHC)",
+        "type": "Item",
+        "name": "class-features-cchc",
+        "path": "packs/class-features-cchc.db",
+        "system": "dnd5e",
+        "entity": "Item"
+      },
+      {
+        "label": "Classes (CCHC)",
+        "type": "Item",
+        "name": "classes-cchc",
+        "path": "packs/classes-cchc.db",
+        "system": "dnd5e",
+        "entity": "Item"
+      },
+      {
+        "label": "Subclasses (CCHC)",
+        "type": "Item",
+        "name": "subclasses-cchc",
+        "path": "packs/subclasses-cchc.db",
+        "system": "dnd5e",
+        "entity": "Item"
+      },
+      {
+        "label": "Rules (CCHC)",
+        "type": "JournalEntry",
+        "name": "rules-cchc",
+        "path": "packs/rules-cchc.db",
+        "system": "dnd5e",
+        "entity": "JournalEntry"
+      }
     ],
     "dependencies": [
       {
